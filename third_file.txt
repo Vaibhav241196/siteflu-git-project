@@ -1,1 +1,3 @@
-Hello, This is the third file in my project that i created just for learning git.
+Howdy, This is the third file in my project that i created just for learning git.
+
+This is the last file in the project right now.

@@ -1,1 +1,1 @@
-This is my second file in the project created for learning git.
+Hello there, This is my second file in the project created for learning git.
