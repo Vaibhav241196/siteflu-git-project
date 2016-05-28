@@ -1,6 +1,7 @@
-Hello, This is My first file that i have created while learning git.
+Hello, This is My first file that i have created while learning git yolo.
 
 This file comes before all other files.
 
-This is first file ever created.
+This is first file ever created woohoo.
 
+//End of file
