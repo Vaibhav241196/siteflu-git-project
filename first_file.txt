@@ -2,7 +2,7 @@ Hello, This is My first file that i have created while learning git yolo.
 
 This file comes before all other files.
 
-This is first file ever created woohoo.
+This is first file ever created .
 
 //End of file
 
@@ -48,7 +48,7 @@ This is first file ever created woohoo.
 
 
 
-This is just for extending the document.
+This is just for extending the document for understanding git diff.
 
 
 
