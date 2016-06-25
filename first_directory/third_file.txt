@@ -1,0 +1,5 @@
+Howdy, This is the third file in my project that i created just for learning git.
+
+This is the last file in the project right now.
+
+But will not be so for long as changes more files are created everyday.
